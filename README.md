@@ -26,7 +26,9 @@ To write a python program to find the Eigenvalues and Eigen Vectors
     print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
    ```
 ## Output:  
-   ![Eigen values -and- Eigen vectors](https://user-images.githubusercontent.com/120539823/211203296-095eff7b-7400-4a7c-b082-d4d1aba0b172.png)
+![e41](https://user-images.githubusercontent.com/120539823/214585243-80b7220d-d169-4f13-8f36-1cc53fc00589.png)![e42](https://user-images.githubusercontent.com/120539823/214585271-d12600b3-056e-443b-8386-91c5a5d07996.png)
+
+  
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
